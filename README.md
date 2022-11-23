@@ -58,7 +58,12 @@ The notebooks in the categories (110_) and (120_) contain various analyses perfo
 
 The additional notebooks not included in the current flowchart include further details that were collected but could not be yet analysed in detail.
 
-### Part 3. Example results
+### Part 3. Presentation
+
+Data presentation example for clients [here](https://github.com/cucuimihaela/ManUtd_Social_Media_Analytics/blob/main/Final_Project_MUFC.pdf)
+
+
+### Part 4. Example results
 
 Below are two charts displaying the most frequent topics as well as the user segmentation using the BERTopic model. 
 Additional html charts are available in the [Streamlit App](https://jdfduarte-social-media-analysis-streamlit-st-app-qazofo.streamlit.app/).
