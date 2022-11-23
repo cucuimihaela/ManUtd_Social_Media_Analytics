@@ -60,7 +60,7 @@ The additional notebooks not included in the current flowchart include further d
 
 ### Part 3. Presentation
 
-Data presentation example for clients [here](https://github.com/cucuimihaela/ManUtd_Social_Media_Analytics/blob/main/Final_Project_MUFC.pdf)
+Data presentation example for clients [here](https://github.com/cucuimihaela/ManUtd_Social_Media_Analytics/blob/master/Final_Project_MUFC.pdf)
 
 
 ### Part 4. Example results
