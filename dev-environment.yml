@@ -1,0 +1,23 @@
+name: SIT4
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - notebook
+  - jupyter
+  - pip
+  - plotly
+  - pandas
+  - requests
+  - plotly-orca==1.2.1
+  - psutil
+  - seaborn
+  - tweepy
+  - twython
+  - snscrape
+  - wordcloud
+  - matplotlib
+  - transformers
+  - textblob
+prefix: D:\ProgramData\envs\SIT4
